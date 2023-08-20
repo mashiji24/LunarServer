@@ -1,0 +1,7 @@
+---
+name: PluginTemplate
+version: 0.0.1
+main: mashiji\PluginTemplate\Main
+api: 5.3.0
+src-namespace-prefix: mashiji\PluginTemplate
+...

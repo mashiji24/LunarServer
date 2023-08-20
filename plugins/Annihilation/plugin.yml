@@ -1,0 +1,7 @@
+---
+name: Annihilation
+version: 0.0.1
+main: mashiji\Annihilation\Main
+api: 5.3.0
+src-namespace-prefix: mashiji\Annihilation
+...
